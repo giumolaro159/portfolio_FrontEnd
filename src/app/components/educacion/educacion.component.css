@@ -1,0 +1,19 @@
+.flex-container {
+    font-family: 'Inconsolata';
+    color: whitesmoke;
+    background-color: rgb(58, 0, 112);
+    display: flex;
+    flex-direction: row;
+    }
+
+img{
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 500px;
+    height: 500px;
+    opacity: .8;
+}
+
+div div{
+    padding: 30px;
+}
