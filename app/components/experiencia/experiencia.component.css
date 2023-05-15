@@ -1,0 +1,29 @@
+
+h2, h4{
+    display: inline;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Inconsolata' ;
+    color: rgb(58, 0, 112);
+}
+
+div{
+    background-color: rgb(239, 221, 255);
+    font-family: 'Inconsolata';
+}
+
+.row{
+    padding: 25px;
+}
+ul{
+    list-style: none;
+    color: rgb(58, 0, 112);
+}
+ul:hover{
+    background-color: whitesmoke;
+    color: rgb(28, 1, 46);
+}
+
